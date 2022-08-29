@@ -4,4 +4,5 @@ Tools , Libraries , Frameworks Used:
 2. FireBase Auth
 3. FireBase Storage
 4. Coil Libraty for images
-5. Hitl for Dependency Injection
+5. Hilt for Dependency Injection
+6. ViewModel , Live Data
